@@ -11,8 +11,8 @@ int main() {
     scanf("%f", &b);
     printf("Enter alf: ");
     scanf("%f", &alf);
-    p=2*(a+b);
     h=(a-b)/2*tan(alf);
+    p=a+b+2*h/sin(alf);
     s=(a+b)/2*h;
     printf("p=%f\n",p);
     printf("s=%f\n",s);
