@@ -1,3 +1,6 @@
+//                  Код прислал https://vk.com/fuckaiieasyidareblocked123456789
+//                  Чуть ниже будет мой код
+
 #include <iostream>
 using namespace std;
 
