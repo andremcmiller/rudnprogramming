@@ -9,6 +9,6 @@ int main()
     t /= 60;
     int minutes = t % 60;
     t /= 60;
-    cout << t << " Hours " << minutes << " Mintes " << seconds << " Seconds";
+    cout << t << " Hours " << minutes << " Minutes " << seconds << " Seconds";
     return 0;
 }
