@@ -1,5 +1,5 @@
-//Код прислал https://vk.com/fuckaiieasyidareblocked123456789
-//Чуть нижуу будет мой код, исправленый
+//                  Код прислал https://vk.com/fuckaiieasyidareblocked123456789
+//                  Чуть ниже будет мой код
 #include <iostream>
 using namespace std;
 
@@ -12,7 +12,7 @@ int main()
     return 0;
 }
 
-//Мой код:
+//                      Мой код:
 #include <iostream>
 using namespace std;
 int main()
