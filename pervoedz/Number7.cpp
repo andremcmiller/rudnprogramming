@@ -1,5 +1,4 @@
-//                  Код прислал https://vk.com/fuckaiieasyidareblocked123456789
-//                  Чуть ниже будет мой код
+/*
 
 #include <iostream>
 using namespace std;
@@ -15,7 +14,7 @@ int main()
     cout << t << " Hours " << minutes << " Minutes " << seconds << " Seconds";
     return 0;
 }
-
+*/
 //                 Мой код
 
 
