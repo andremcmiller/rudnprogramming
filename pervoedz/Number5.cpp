@@ -1,4 +1,4 @@
-
+/*
 #include <iostream>
 using namespace std;
 
@@ -10,8 +10,8 @@ int main()
     cout << n / 11 << " " << n % 11 << "/11 kg Ni  " << m / 11 << " " << m % 11 << "/11 kg Cu";
     return 0;
 }
-
-//                      Мой код:
+*/
+//                     Второй вариант
 #include <iostream>
 using namespace std;
 int main()
