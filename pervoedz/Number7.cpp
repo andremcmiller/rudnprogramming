@@ -19,11 +19,20 @@ int main()
 //                 Мой код
 
 
+
 #include <stdio.h>
 int main()
 {
     int t ;
     scanf("%d",&t);
+    if (t>86400) {
+        printf("Вы ввели больше суточных секунд!");
+        return 0;
+    }
+    else if (t<0) {
+        printf("Вы ввели отрицательное кол-во секунд");
+        return 0;
+    }
     int seconds = t % 60;
     t /= 60;
     int minutes = t % 60;
